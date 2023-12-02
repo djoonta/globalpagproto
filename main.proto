@@ -1,5 +1,5 @@
 syntax = "proto3";
-package globalpag;
+package globalpagproto;
 
 option go_package = "github.com/djoonta/globalpagproto";
 
