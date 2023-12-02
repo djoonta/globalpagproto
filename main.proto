@@ -3,7 +3,7 @@ package globalpag;
 
 option go_package = "github.com/djoonta/globalpagproto";
 
-message PaginationInfo {
+message GlobalPaginationInfo {
   int32 current_page = 1;
   int32 limit = 2;
   int32 offset = 3;
